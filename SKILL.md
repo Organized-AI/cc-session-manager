@@ -1,5 +1,5 @@
 ---
-name: claude-code-session-manager
+name: cc-session-manager
 description: Analyzes iCal calendar, Claude conversation JSONL files, predicts token usage, and automatically schedules optimal 5-hour Claude Code sessions.
 metadata:
   version: 1.0.0
@@ -7,7 +7,7 @@ metadata:
   platforms: macOS (iCal integration)
 ---
 
-# Claude Code Session Manager
+# CC Session Manager
 
 This Skill analyzes your calendar availability, reviews Claude conversation history from JSONL files, predicts token usage patterns, and automatically schedules optimal 5-hour Claude Code sessions.
 
