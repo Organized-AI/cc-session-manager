@@ -367,3 +367,7 @@ Created by [Organized AI](https://github.com/Organized-AI) for optimal Claude Co
 
 **Version:** 2.0.0 (Real-Time Tracker)  
 **Previous:** 1.0.0 (Future Scheduler)
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
